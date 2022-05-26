@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Controle PS4",
+      "price": 500.19
+    },
+    {
+      "id": 3,
+      "name": "Macbook Pro",
+      "price": 8000.2
+    },
+    {
+      "name": "Caneca",
+      "price": "2.60",
+      "id": 10
+    },
+    {
+      "name": "Lapis",
+      "price": ".90",
+      "id": 11
+    }
+  ]
+}

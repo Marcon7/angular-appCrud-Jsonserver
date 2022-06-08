@@ -6,24 +6,34 @@
       "price": 5.89
     },
     {
-      "id": 2,
-      "name": "Controle PS4",
-      "price": 500.19
-    },
-    {
       "id": 3,
       "name": "Macbook Pro",
       "price": 8000.2
     },
     {
-      "name": "Caneca",
-      "price": "2.60",
-      "id": 10
+      "name": "Computador LG",
+      "price": "3400",
+      "id": 12
     },
     {
-      "name": "Lapis",
-      "price": ".90",
-      "id": 11
+      "name": "Mouse Logitech",
+      "price": "38",
+      "id": 13
+    },
+    {
+      "name": "Controle PS5",
+      "price": "350",
+      "id": 14
+    },
+    {
+      "name": "MousePad",
+      "price": "14",
+      "id": 15
+    },
+    {
+      "name": "Carregador Iphone",
+      "price": "99.33",
+      "id": 16
     }
   ]
 }
